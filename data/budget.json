@@ -1,0 +1,542 @@
+{
+  "generatedAt": "2026-02-06T08:31:42.455Z",
+  "sections": [
+    {
+      "key": "A",
+      "label": "OMUTWALO GWA TAATA",
+      "items": [
+        {
+          "id": "A-01-omutwalo-gwa-taata",
+          "sectionKey": "A",
+          "sectionLabel": "OMUTWALO GWA TAATA",
+          "name": "OMUTWALO GWA TAATA",
+          "quantity": "1",
+          "unitPrice": 1000000,
+          "total": 1000000
+        }
+      ]
+    },
+    {
+      "key": "B",
+      "label": "MENGO ITEMS",
+      "items": [
+        {
+          "id": "B-01-map-of-buganda",
+          "sectionKey": "B",
+          "sectionLabel": "MENGO ITEMS",
+          "name": "MAP OF BUGANDA",
+          "quantity": "1",
+          "unitPrice": 150000,
+          "total": 150000
+        },
+        {
+          "id": "B-02-certificates",
+          "sectionKey": "B",
+          "sectionLabel": "MENGO ITEMS",
+          "name": "CERTIFICATES",
+          "quantity": "2",
+          "unitPrice": 50000,
+          "total": 100000
+        },
+        {
+          "id": "B-03-portrait-of-kabaka",
+          "sectionKey": "B",
+          "sectionLabel": "MENGO ITEMS",
+          "name": "PORTRAIT OF KABAKA",
+          "quantity": "1",
+          "unitPrice": 100000,
+          "total": 100000
+        },
+        {
+          "id": "B-04-portrait-of-nnabagereka",
+          "sectionKey": "B",
+          "sectionLabel": "MENGO ITEMS",
+          "name": "PORTRAIT OF NNABAGEREKA",
+          "quantity": "1",
+          "unitPrice": 100000,
+          "total": 100000
+        }
+      ]
+    },
+    {
+      "key": "C",
+      "label": "ENGOYE (CLOTHINGS)",
+      "items": [
+        {
+          "id": "C-01-ekanzu-ya-taata",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "EKANZU YA TAATA",
+          "quantity": "1",
+          "unitPrice": 200000,
+          "total": 200000
+        },
+        {
+          "id": "C-02-amakanzu-ga-bataata",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "AMAKANZU GA BATAATA",
+          "quantity": "6",
+          "unitPrice": 100000,
+          "total": 600000
+        },
+        {
+          "id": "C-03-amakanzu-ga-bakojja",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "AMAKANZU GA BAKOJJA",
+          "quantity": "8",
+          "unitPrice": 100000,
+          "total": 800000
+        },
+        {
+          "id": "C-04-amakanzu-ga-bajjajja-men",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "AMAKANZU GA BAJJAJJA (MEN)",
+          "quantity": "4",
+          "unitPrice": 100000,
+          "total": 400000
+        },
+        {
+          "id": "C-05-ekanzu-yomuko-special",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "EKANZU Y'OMUKO (SPECIAL)",
+          "quantity": "1",
+          "unitPrice": 100000,
+          "total": 100000
+        },
+        {
+          "id": "C-06-amakanzu-gabako",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "AMAKANZU G'ABAKO",
+          "quantity": "5",
+          "unitPrice": 100000,
+          "total": 500000
+        },
+        {
+          "id": "C-07-gomesi-ya-maama",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "GOMESI YA MAAMA",
+          "quantity": "1",
+          "unitPrice": 150000,
+          "total": 150000
+        },
+        {
+          "id": "C-08-gomesi-za-bamaama",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "GOMESI ZA BAMAAMA",
+          "quantity": "8",
+          "unitPrice": 100000,
+          "total": 800000
+        },
+        {
+          "id": "C-09-gomesi-za-bajjajja-women",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "GOMESI ZA BAJJAJJA (WOMEN)",
+          "quantity": "5",
+          "unitPrice": 70000,
+          "total": 350000
+        },
+        {
+          "id": "C-10-gomesi-ya-senga-special",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "GOMESI YA SENGA (SPECIAL)",
+          "quantity": "1",
+          "unitPrice": 100000,
+          "total": 100000
+        },
+        {
+          "id": "C-11-gomesi-za-basenga",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "GOMESI ZA BASENGA",
+          "quantity": "5",
+          "unitPrice": 100000,
+          "total": 500000
+        },
+        {
+          "id": "C-12-gomesi-baganda-bomugole",
+          "sectionKey": "C",
+          "sectionLabel": "ENGOYE (CLOTHINGS)",
+          "name": "GOMESI BAGANDA B'OMUGOLE",
+          "quantity": "4",
+          "unitPrice": 100000,
+          "total": 400000
+        }
+      ]
+    },
+    {
+      "key": "D",
+      "label": "EBAASA (ENVELOPES)",
+      "items": [
+        {
+          "id": "D-01-taata",
+          "sectionKey": "D",
+          "sectionLabel": "EBAASA (ENVELOPES)",
+          "name": "TAATA",
+          "quantity": "1",
+          "unitPrice": 1000000,
+          "total": 1000000
+        },
+        {
+          "id": "D-02-maama",
+          "sectionKey": "D",
+          "sectionLabel": "EBAASA (ENVELOPES)",
+          "name": "MAAMA",
+          "quantity": "1",
+          "unitPrice": 1000000,
+          "total": 1000000
+        },
+        {
+          "id": "D-03-senga",
+          "sectionKey": "D",
+          "sectionLabel": "EBAASA (ENVELOPES)",
+          "name": "SENGA",
+          "quantity": "1",
+          "unitPrice": 200000,
+          "total": 200000
+        },
+        {
+          "id": "D-04-omuko",
+          "sectionKey": "D",
+          "sectionLabel": "EBAASA (ENVELOPES)",
+          "name": "OMUKO",
+          "quantity": "1",
+          "unitPrice": 200000,
+          "total": 200000
+        },
+        {
+          "id": "D-05-amabaasa-gababuuza",
+          "sectionKey": "D",
+          "sectionLabel": "EBAASA (ENVELOPES)",
+          "name": "AMABAASA G'ABABUUZA",
+          "quantity": "50",
+          "unitPrice": 10000,
+          "total": 500000
+        }
+      ]
+    },
+    {
+      "key": "E",
+      "label": "EBIRABO",
+      "items": [
+        {
+          "id": "E-01-sofa-set-5-seater",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "SOFA SET (5-SEATER)",
+          "quantity": "1",
+          "unitPrice": 2500000,
+          "total": 2500000
+        },
+        {
+          "id": "E-02-fridge-double-door",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "FRIDGE (DOUBLE DOOR)",
+          "quantity": "1",
+          "unitPrice": 2000000,
+          "total": 2000000
+        },
+        {
+          "id": "E-03-tv-50-inch",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "TV (50+ INCH)",
+          "quantity": "1",
+          "unitPrice": 2000000,
+          "total": 2000000
+        },
+        {
+          "id": "E-04-cooker-ya-maama",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "COOKER YA MAAMA",
+          "quantity": "1",
+          "unitPrice": 1000000,
+          "total": 1000000
+        },
+        {
+          "id": "E-05-entebbe-ya-taata-swing",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "ENTEBBE YA TAATA (SWING)",
+          "quantity": "1",
+          "unitPrice": 500000,
+          "total": 500000
+        },
+        {
+          "id": "E-06-case-yomugole-bride",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "CASE Y'OMUGOLE (BRIDE)",
+          "quantity": "1",
+          "unitPrice": 1000000,
+          "total": 1000000
+        },
+        {
+          "id": "E-07-case-ya-maama",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "CASE YA MAAMA",
+          "quantity": "1",
+          "unitPrice": 500000,
+          "total": 500000
+        },
+        {
+          "id": "E-08-case-ya-senga",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "CASE YA SENGA",
+          "quantity": "1",
+          "unitPrice": 200000,
+          "total": 200000
+        },
+        {
+          "id": "E-09-briefcase-ya-taata",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "BRIEFCASE YA TAATA",
+          "quantity": "1",
+          "unitPrice": 500000,
+          "total": 500000
+        },
+        {
+          "id": "E-10-ekimuli-flower",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "EKIMULI (FLOWER)",
+          "quantity": "1",
+          "unitPrice": 300000,
+          "total": 300000
+        },
+        {
+          "id": "E-11-ente-cows",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "ENTE (COWS)",
+          "quantity": "1",
+          "unitPrice": 2500000,
+          "total": 2500000
+        },
+        {
+          "id": "E-12-rice-omuceere",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "RICE (OMUCEERE)",
+          "quantity": "20 Bags",
+          "unitPrice": 160000,
+          "total": 3200000
+        },
+        {
+          "id": "E-13-sugar-sukaali",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "SUGAR (SUKAALI)",
+          "quantity": "20 Bags",
+          "unitPrice": 100000,
+          "total": 2000000
+        },
+        {
+          "id": "E-14-cooking-oil",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "COOKING OIL",
+          "quantity": "10 Boxes",
+          "unitPrice": 70000,
+          "total": 700000
+        },
+        {
+          "id": "E-15-soap-sabuuni",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "SOAP (SABUUNI)",
+          "quantity": "10 Boxes",
+          "unitPrice": 70000,
+          "total": 700000
+        },
+        {
+          "id": "E-16-blueband",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "BLUEBAND",
+          "quantity": "5 Boxes",
+          "unitPrice": 90000,
+          "total": 450000
+        },
+        {
+          "id": "E-17-chicken-enkoko",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "CHICKEN (ENKOKO)",
+          "quantity": "10",
+          "unitPrice": 30000,
+          "total": 300000
+        },
+        {
+          "id": "E-18-chicken-cage-ekiyonjo",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "CHICKEN CAGE (EKIYONJO)",
+          "quantity": "2",
+          "unitPrice": 50000,
+          "total": 100000
+        },
+        {
+          "id": "E-19-soda",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "SODA",
+          "quantity": "30 Crates",
+          "unitPrice": 20000,
+          "total": 600000
+        },
+        {
+          "id": "E-20-water-amazzi",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "WATER (AMAZZI)",
+          "quantity": "30 Boxes",
+          "unitPrice": 10000,
+          "total": 300000
+        },
+        {
+          "id": "E-21-salt-omunnyo",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "SALT (OMUNNYO)",
+          "quantity": "10 Cartons",
+          "unitPrice": 30000,
+          "total": 300000
+        },
+        {
+          "id": "E-22-wheat-flour-engano",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "WHEAT FLOUR (ENGANO)",
+          "quantity": "3 Cartons",
+          "unitPrice": 80000,
+          "total": 240000
+        },
+        {
+          "id": "E-23-bread-emigaati",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "BREAD (EMIGAATI)",
+          "quantity": "50 Loaves",
+          "unitPrice": 5000,
+          "total": 250000
+        },
+        {
+          "id": "E-24-tea-leaves-amajaani",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "TEA LEAVES (AMAJAANI)",
+          "quantity": "10 Boxes",
+          "unitPrice": 50000,
+          "total": 500000
+        },
+        {
+          "id": "E-25-royco",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "ROYCO",
+          "quantity": "10 Boxes",
+          "unitPrice": 100000,
+          "total": 1000000
+        },
+        {
+          "id": "E-26-gift-baskets-ebibbo",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "GIFT BASKETS (EBIBBO)",
+          "quantity": "20",
+          "unitPrice": 20000,
+          "total": 400000
+        },
+        {
+          "id": "E-27-ennyama",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "ENNYAMA",
+          "quantity": "50",
+          "unitPrice": 20000,
+          "total": 1000000
+        },
+        {
+          "id": "E-28-ebirabo-ebibissi",
+          "sectionKey": "E",
+          "sectionLabel": "EBIRABO",
+          "name": "EBIRABO EBIBISSI",
+          "unitPrice": null,
+          "total": 3000000
+        }
+      ]
+    },
+    {
+      "key": "F",
+      "label": "EBIRALA (OTHERS)",
+      "items": [
+        {
+          "id": "F-01-photography-videography",
+          "sectionKey": "F",
+          "sectionLabel": "EBIRALA (OTHERS)",
+          "name": "PHOTOGRAPHY & VIDEOGRAPHY",
+          "quantity": "1",
+          "unitPrice": 4500000,
+          "total": 4500000
+        },
+        {
+          "id": "F-02-spokesperson-omwogezi",
+          "sectionKey": "F",
+          "sectionLabel": "EBIRALA (OTHERS)",
+          "name": "SPOKESPERSON (OMWOGEZI)",
+          "quantity": "1",
+          "unitPrice": 2000000,
+          "total": 2000000
+        },
+        {
+          "id": "F-03-transport",
+          "sectionKey": "F",
+          "sectionLabel": "EBIRALA (OTHERS)",
+          "name": "TRANSPORT",
+          "quantity": "Lump sum",
+          "unitPrice": null,
+          "total": 2000000
+        },
+        {
+          "id": "F-04-professional-wrapping",
+          "sectionKey": "F",
+          "sectionLabel": "EBIRALA (OTHERS)",
+          "name": "PROFESSIONAL WRAPPING",
+          "quantity": "Lump sum",
+          "unitPrice": null,
+          "total": 1500000
+        },
+        {
+          "id": "F-05-airtime",
+          "sectionKey": "F",
+          "sectionLabel": "EBIRALA (OTHERS)",
+          "name": "AIRTIME",
+          "unitPrice": null,
+          "total": 100000
+        },
+        {
+          "id": "F-06-miscellaneous-emergency",
+          "sectionKey": "F",
+          "sectionLabel": "EBIRALA (OTHERS)",
+          "name": "MISCELLANEOUS / EMERGENCY",
+          "unitPrice": null,
+          "total": 3000000
+        }
+      ]
+    }
+  ]
+}
