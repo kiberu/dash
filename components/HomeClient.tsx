@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { PhoneCall, Search } from "lucide-react";
+import { Globe, MapPin, Phone, PhoneCall, Search } from "lucide-react";
 
 import type { BudgetItem } from "@/components/BudgetItemCard";
 import { BudgetItemCard } from "@/components/BudgetItemCard";
@@ -70,7 +70,7 @@ export function HomeClient({
           <h1 className="text-4xl font-extrabold uppercase tracking-[0.08em] text-white sm:text-5xl">
             MIVULE{" "}
             <span className="text-[var(--gold)] drop-shadow-[0_8px_40px_rgba(0,0,0,0.35)]">
-              ABBEY
+              ABBEY{" "}
             </span>
           </h1>
           <p
@@ -192,6 +192,35 @@ export function HomeClient({
           Pledges are sent via WhatsApp. Totals on the dashboard are updated
           daily by the treasurer.
         </p>
+
+        <div className="mt-5 border-t border-white/10 pt-4">
+          <p className="text-xs text-white/55">
+            Built by{" "}
+            <span className="font-semibold text-white/80">Tola Media</span>
+          </p>
+
+          <div className="mt-3 grid gap-2 text-xs text-white/60 sm:grid-cols-3">
+            <a
+              className="inline-flex items-center gap-2 hover:text-white"
+              href="https://www.pwcug.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <Globe className="h-4 w-4 text-[var(--gold)]" />
+              <span className="text-[var(--gold)]">pwcug.com</span>
+            </a>
+
+            <div className="inline-flex items-center gap-2">
+              <Phone className="h-4 w-4 text-[var(--gold)]" />
+              <span>+(256)740218383</span>
+            </div>
+
+            <div className="inline-flex items-center gap-2">
+              <MapPin className="h-4 w-4 text-[var(--gold)]" />
+              <span>Hive Colab, Kanjokya House</span>
+            </div>
+          </div>
+        </div>
       </footer>
 
       <PledgeDialog

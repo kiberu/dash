@@ -10,10 +10,10 @@ export function buildTreasurerPledgeMessage(params: {
   const amountText = formatUGX(params.amount);
   // Keep wording exactly as specified.
   if (params.itemName) {
-    return `Hi Katende, count me in for a contribution for Dash's Intriduction ! I pledge ${amountText} towards ${params.itemName}. Name: ${params.name}.`;
+    return `Hi Katende, count me in for a contribution for Dash's Introduction ! I pledge ${amountText} towards ${params.itemName}. Name: ${params.name}. - From Website`;
   }
 
-  return `Hi Katende, count me in for a contribution for Dash's Intriduction ! I pledge ${amountText}. Name: ${params.name}.`;
+  return `Hi Katende, count me in for a contribution for Dash's Introduction ! I pledge ${amountText}. Name: ${params.name}. - From Website`;
 }
 
 export function getWhatsAppDeepLink(text: string, phone = TREASURER_WA_NUMBER) {
